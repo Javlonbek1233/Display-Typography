@@ -1,0 +1,6 @@
+{
+  "name": "ArenaX",
+  "description": "A futuristic sports platform with simulated live match telemetry, interactive fantasy squad rosters, neural analytics, and AI-powered strategy predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
